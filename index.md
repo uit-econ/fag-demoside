@@ -53,7 +53,7 @@ Rory R. Rawlinson
 - Timeplan
 - Oppgaver
 - Ressurser
-- Lenke til innlevering (Wiseflow)
+- [Wiseflow](https://europe.wiseflow.net/login/license/6)
 - Lenke til CV side
 - Lenke til GIT
 
