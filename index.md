@@ -15,7 +15,7 @@ Rory R. Rawlinson
 
 ## Forelesningsplan
 - [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1)
-- Innhold
+- [Plan](forelesningsplan.md)
 - Ressurser
   - Pensum
   - Notater
