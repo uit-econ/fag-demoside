@@ -11,7 +11,7 @@ Alt jeg vet om R.
 ## Faglærerinfo
 Rory R. Rawlinson
 ## Pensum
-[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
+[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="_blank"}
 
 ## Forelesningsplan
 - [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1)
