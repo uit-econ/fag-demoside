@@ -6,7 +6,7 @@
 
 ## Kursbeskrivelse 
 
-[Finnes her] (https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="_blank"}
+[Finnes her](https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="_blank"}
 
 ## Faglærerinfo
 - Fagansvarlig [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="_blank"}
