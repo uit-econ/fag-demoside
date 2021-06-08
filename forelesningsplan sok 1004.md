@@ -3,7 +3,7 @@
 
 | Dato og tid    | Tema                                                              | Lærer  | Ressurser   |
 |----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|17/8 10.15-12   | Innledning og kursplan                        | DC/ØM       |    |
+|19/8 8.15-10   | Innledning og kursplan                        | DC/ØM       |    |
 |26/8 14.15-16   |  | ØM |    |
 |31/8 10.15-12   |          | ØM        |  |
 |2/9 14.15-16    |  | ØM |  |
@@ -21,3 +21,6 @@
 |9/11 10.15-12   |                                | ØM       |   |
 |11/11 14.15-16  |                                     | DC         |    |
 |23/11 10.15-12|                                         | DC         |   |
+
+Forelesning 19/8 finner sted i TEO Hus 1 AUD 1.  
+Alle andre forelesninger finner sted i TEO Hus 1 AUD 2.
