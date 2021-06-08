@@ -70,6 +70,9 @@
 ## Link to a pdf
 [Paper](war and conflict jebo 2020.pdf){:target="_blank"}
 
+## Tex
+$\alpha$
+
 
 <!--Gjør endringer over her-->
 {% include bottom.html %}
