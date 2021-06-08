@@ -9,8 +9,7 @@
 |2/9 14.15-16    | R | ØM |  |
 |7/9 10.15-12    | Bruttonasjonalprodukt (BNP)    | DC       | [Core Kap. 1](https://www.core-econ.org/the-economy/book/text/01.html)  |
 |8/9 8.15-10     | Markedsøkonomien  | DC | [Core Kap. 1](https://www.core-econ.org/the-economy/book/text/01.html)   |
-|16/9 14.15-16   | Case 1: Deskriptiv analyse av historiske BNP-data fra SSB (1970-2020) | ØM       | [Notat](https://rpubs.com/omy000/717180)  
-[R kode](http://ansatte.uit.no/oystein.myrland/okemnprog/bnp_vekst.R)|
+|16/9 14.15-16   | Case 1: Deskriptiv analyse av historiske BNP-data fra SSB (1970-2020) | ØM       | [Notat](https://rpubs.com/omy000/717180)  <br />[R kode](http://ansatte.uit.no/oystein.myrland/okemnprog/bnp_vekst.R)|
 |23/9 14.15-16   | Case 2: Historisk BNP (1865-2011)                                     | ØM         |      |
 |29/9 8.15-10    | Grunnleggende begreper i samfunnsøkonomi           | DC |   |
 |6/10 8.15-10    | Økonomisk vekst og befolkningsvekst | DC |   |
