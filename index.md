@@ -6,16 +6,18 @@
 
 ## Kursbeskrivelse 
 
-Alt jeg vet om R.
+[Finnes her] (https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="_blank"}
 
 ## Faglærerinfo
-Rory R. Rawlinson
+- Fagansvarlig [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="_blank"}
+- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="_blank"}
 ## Pensum
 [Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="_blank"}
 
-## Forelesningsplan
+## Kursplan
 - [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="_blank"}
 - [Plan](forelesningsplan sok 1004.md){:target="_blank"}
+- [Canvas](https://uit.instructure.com/courses/24034){:target="_blank"}
 - Ressurser
   - Pensum
   - Notater
@@ -26,7 +28,7 @@ Rory R. Rawlinson
   - FAQ
 
 
-## Testplan
+
 ## Forelesningsplan
 
 | Dato og tid    | Tema                                                              | Lærer  | Ressurser   |
