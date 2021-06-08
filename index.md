@@ -67,6 +67,10 @@
 - Midtveis
 - Slutt
 
+## Latex
+  
+  
+$$\alpha^2$$  
 
 
 
