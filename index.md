@@ -14,7 +14,7 @@ Rory R. Rawlinson
 [Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="_blank"}
 
 ## Forelesningsplan
-- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1)
+- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="_blank"}
 - [Plan](forelesningsplan sok 1004.md){:target="_blank"}
 - Ressurser
   - Pensum
