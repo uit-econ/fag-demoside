@@ -67,7 +67,8 @@
 - Midtveis
 - Slutt
 
-
+## Link to a pdf
+[Paper](war and conflict jebo 2020.pdf){:target="_blank"}
 
 
 <!--Gjør endringer over her-->
