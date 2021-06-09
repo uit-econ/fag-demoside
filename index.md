@@ -72,7 +72,7 @@
 
 ## Tex
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=F%28x%29%3D%20%5Cint_a%5Eb%20x%20dx&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0" align="center" border="0" alt="F(x)= \int_a^b x dx" width="114" height="43" />
+<img src="https://render.githubusercontent.com/render/math?math=$x\cdot (1+\frac{r}{n})^{T\cdot n}$">
 
 
 <!--Gjør endringer over her-->
