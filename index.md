@@ -70,9 +70,10 @@
 ## Link to a pdf
 [Paper](war and conflict jebo 2020.pdf){:target="_blank"}
 
-## Tex
+## Equations
 
-<img src="https://render.githubusercontent.com/render/math?math=$x\cdot (1+\frac{r}{n})^{T\cdot n}$">
+Showing an equation is also possible: <img src="https://render.githubusercontent.com/render/math?math=$x\cdot (1+\frac{r}{n})^{T\cdot n}$"> 
+
 
 
 <!--Gjør endringer over her-->
