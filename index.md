@@ -6,73 +6,47 @@
 
 ## Kursbeskrivelse 
 
-[Finnes her](https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="_blank"}
+[Finnes her](https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="blank"}
 
 ## Faglærerinfo
-- Fagansvarlig [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="_blank"}
-- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="_blank"}
+- Fagansvarlig [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"}
+- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"}
 ## Pensum
-[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="_blank"}
+[Core online text](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}
 
 ## Kursplan
-- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="_blank"}
-- [Plan](forelesningsplan sok 1004.md){:target="_blank"}
-- [Canvas](https://uit.instructure.com/courses/24034){:target="_blank"}
-- Ressurser
-  - Pensum
-  - Notater
-  - Video
-  - Øvinger
-  - Kode
-  - Lenke til Jupyter
-  - FAQ
+- [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"}
+- [Forelesningsplan](forelesningsplan sok 1004.md){:target="blank"}
+- Forelesningsplanen inneholder informasjon om forelesningstidspunkt, tema, faglærer samt ressurser til hvert tema. 
+
+
+## Kunngjøringer
+- Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
 
 
 
-## Forelesningsplan
-
-| Dato og tid    | Tema                                                              | Lærer  | Ressurser   |
-|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-|19/8 8.15-10   | Innledning og kursplan                        | DC/ØM       |    |
-|26/8 14.15-16   |  | ØM |    |
-|31/8 10.15-12   |          | ØM        |  |
-|2/9 14.15-16    |  | ØM |  |
-|7/9 10.15-12    |     | DC       |   |
-|8/9 8.15-10     |  | DC |   |
-|16/9 14.15-16   |  | ØM       |  |
-|23/9 14.15-16   |                                                          | ØM         |      |
-|29/9 8.15-10    |                 | DC |   |
-|6/10 8.15-10    |  | DC |   |
-|12/10 10.15-12  |  | ØM |   |
-|13/10 8.15-10   |            | ØM |  |
-|26/10 10.15-12  |   | DC |   |
-|28/10 14.15-16  |   | DC         |   |
-|3/11 8.15-10    |                       | ØM |  | 
-|9/11 10.15-12   |                                | ØM       |   |
-|11/11 14.15-16  |                                     | DC         |    |
-|23/11 10.15-12|                                         | DC         |   |
 
 
-## Innlevering
-- Timeplan
-- Oppgaver
-- Ressurser
-- [Wiseflow](https://europe.wiseflow.net/login/license/6)
-- Lenke til CV side
-- Lenke til GIT
 
-## FAQ
+## Innlevering og eksamen
+
+Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.
+Frister, oppgaver og ressurser finnes i [evalueringsplanen](forelesningsplan sok 1004.md){:target="blank"}
+
+Besvarelser leveres elektronisk i [Wiseflow](https://europe.wiseflow.net/login/license/6)
 
 ## Kursevaluering
+Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Nedenfor finner du detaljer om evalueringsmetodene.
 - Midtveis
 - Slutt
 
-## Link to a pdf
-[Paper](war and conflict jebo 2020.pdf){:target="_blank"}
 
-## Equations
+## FAQ - Ofte stilte spørsmål og svar
 
-Showing an equation is also possible: <img src="https://render.githubusercontent.com/render/math?math=$x\cdot (1+\frac{r}{n})^{T\cdot n}$"> 
+Se vår [FAQ side](forelesningsplan sok 1004.md){:target="blank"}
+
+
+
 
 
 
