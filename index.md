@@ -45,7 +45,7 @@ Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Nedenf
 
 ## FAQ - Ofte stilte spørsmål og svar
 
-Se vår [FAQ side](forelesningsplan sok 1004.md){:target="blank"}
+Se vår [FAQ side](faq.md){:target="blank"}
 
 
 
