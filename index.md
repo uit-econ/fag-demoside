@@ -47,6 +47,8 @@ Kurset evalueres av studenter midtveis i semesteret og ved kursets slutt. Nedenf
 
 Se vår [FAQ side](faq.md){:target="blank"}
 
+[presentation](presentation.md){:target="_blank"}
+
 
 
 
